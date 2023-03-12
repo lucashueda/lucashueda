@@ -1,11 +1,11 @@
-### Hi, I'm Lucas 👋 
+### Hi, I'm Lucas, but you can call me <b>dek</b> 👋 
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dinhanhthi/)](https://www.linkedin.com/in/lucashueda/)
 
 
 PhD in Electrical Engeeniring, Deep Learning researcher and Dancer. Currently working with Expressive Text-to-Speech and finishing my PhD at Unicamp/Brazil.
 
-- 🌱 My research topics are: deep learning, representation learning, few-shot, expressive speech, affective computing, inductive bias in deep architectures and disentanglement learning.
+- 🌱 My research topics are: deep learning, representation learning, generative modeling, expressive speech, affective computing, inductive bias in deep architectures and disentanglement learning.
 - 🔥 Frequently I like to participate in challenges either on AI (like kaggle) or dance battles.
 - 📚 I am also working on tutorials, you can check it [here]().
 - 😍 Things that I love: applying AI to funny things, dance (mostly house, hiphop and popping), skate and watch animes.
@@ -28,7 +28,7 @@ Technologies I've been learning and using so far :
     
     
     
-<br><br><br><br>
+<br><br>
     
 <p align='left'>
  <a href="https://www.linkedin.com/in/lucashueda/" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/linkedin%20rect.svg"></a>&nbsp;&nbsp;
