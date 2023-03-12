@@ -3,13 +3,13 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dinhanhthi/)](https://www.linkedin.com/in/lucashueda/)
 
 
-I'm a Vietnamese guy who has a curious mind. I'd like to learn something new everyday. I'm a **PhD in Applied Maths** and currently a **Data Scientist**.
+PhD in Electrical Engeeniring, Deep Learning researcher and Dancer. Currently working with Expressive Text-to-Speech and finishing my PhD at Unicamp/Brazil.
 
-- 🌱 I’m currently learning *Advanced Machine Learning* & *Data Science* (and enjoying _Web Dev_).
-- 🔥 Most proud of -- [Math2IT](http://math2it.com/), a Vietnamese site for intuitive knowledge (maths, education and technology).
-- 📚 My notes of learning at [dinhanhthi.com/notes](http://dinhanhthi.com/notes).
-- 😍 My hobbies are [drawing](https://photos.app.goo.gl/9OVEkdTjmtRPg7vC3), [reading](https://www.goodreads.com/user/show/19630622-thi-dinh) and [cooking](https://goo.gl/photos/yQXdQws1LLS16x5v5).
-- 💌 Contact me at [dinhanhthi@gmail.com](mailto:dinhanhthi@gmail.com).
+- 🌱 My research topics are: deep learning, representation learning, few-shot, expressive speech, affective computing, inductive bias in deep architectures and disentanglement learning.
+- 🔥 Frequently I like to participate in challenges either on AI (like kaggle) or dance battles.
+- 📚 I am also working on tutorials, you can check it [here]().
+- 😍 Things that I love: applying AI to funny things, dance (mostly house, hiphop and popping), skate and watch animes.
+- 💌 Contact me at [lucashueda@gmail.com](mailto:lucashueda@gmail.com).
 
 Technologies I've been learning and using so far :
 
@@ -26,6 +26,9 @@ Technologies I've been learning and using so far :
     [![GNU Bash](http://img.shields.io/badge/-GNU%20Bash-eee?style=flat-square&logo=gnu-bash&logoColor=663399)](https://dinhanhthi.com/tags#bash)
     [![Git](http://img.shields.io/badge/-Git-eee?style=flat-square&logo=git&logoColor=F05032)](https://dinhanhthi.com/git)
     
+    
+    
+<br><br><br><br>
     
 <p align='left'>
  <a href="https://www.linkedin.com/in/lucashueda/" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/linkedin%20rect.svg"></a>&nbsp;&nbsp;
