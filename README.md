@@ -1,4 +1,4 @@
-### Hi, I'm Lucas, but you can call me <b>dek</b> 👋 
+### Hi, I'm Lucas, but you can call me **dek** 👋 
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dinhanhthi/)](https://www.linkedin.com/in/lucashueda/)
 
